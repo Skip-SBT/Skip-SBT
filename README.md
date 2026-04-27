@@ -1,17 +1,26 @@
-<h2 align="left">My name is Maximilian and I'm a Fullstack Developer from Switzerland</h2>
+<h1 align="left">Hi there, I'm Maximilian 👋</h1>
 
-###
+<h3 align="left">Fullstack Developer from Switzerland 🇨🇭</h3>
+
+<p align="left">
+  I'm passionate about building modern web applications and always looking to learn new technologies.
+  Currently working with React, TypeScript, and Java on a variety of projects.
+</p>
+
+---
+
+### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Skip-SBT&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=Skip-SBT&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Skip-SBT&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" height="150" alt="languages graph"  />
 </div>
 
-###
+---
+
+### 🛠️ Technologies & Tools
 
 <img align="right" height="150" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTAwNzluc29vamNvdmpvNjV3eng5YWdtbGx4emFiZTY5Nnk1cGR6OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/H4VsPRumdfKAcUGddr/giphy.gif"  />
-
-###
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
@@ -35,7 +44,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="30" alt="gitlab logo"  />
 </div>
 
-###
+---
+
+### 📫 Connect with Me
 
 <div align="left">
   <a href="https://www.linkedin.com/in/maximilian-hubrath-787b8521b/" target="_blank">
@@ -46,16 +57,12 @@
   </a>
 </div>
 
-###
+---
 
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/skip-sbt/skip-sbt/output/snake.svg" alt="Snake animation" />
 
-###
-
 <div align="center">
-  <img src="https://profile-counter.glitch.me/skip-sbt/count.svg?"  />
+  <img src="https://profile-counter.glitch.me/skip-sbt/count.svg" alt="Profile visitor counter" />
 </div>
-
-###
